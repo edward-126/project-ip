@@ -116,6 +116,14 @@ const IPChecker = () => {
         >
           Thilina R.
         </Link>
+        <div className="mx-2 h-3 w-px bg-zinc-800" />
+        <Link
+          href="https://github.com/edward-126/project-ip"
+          className="transition-colors duration-300 hover:text-blue-600"
+          target="_blank"
+        >
+          Visit the Git Repo
+        </Link>
       </div>
     </div>
   );
