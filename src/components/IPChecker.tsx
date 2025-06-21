@@ -45,7 +45,7 @@ const IPChecker = () => {
   };
 
   return (
-    <div className="flex min-h-dvh flex-col items-center justify-between bg-zinc-950 px-4">
+    <div className="flex min-h-dvh flex-col items-center justify-between px-4">
       <div className="h-2 w-full" />
       <div className="w-full max-w-sm rounded-3xl border border-zinc-900 bg-zinc-950 px-6 py-8">
         <div className="text-center">
